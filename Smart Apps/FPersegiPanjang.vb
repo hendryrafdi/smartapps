@@ -1,5 +1,5 @@
 ﻿Public Class FPersegiPanjang
-    Dim p, l, h As Integer
+    Dim p, l, h As Single
     Public Function dec()
         p = TextBox1.Text
         l = TextBox2.Text

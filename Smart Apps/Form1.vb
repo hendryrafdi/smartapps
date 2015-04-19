@@ -25,4 +25,29 @@
         FPersegiPanjang.Show()
         Me.Hide()
     End Sub
+
+    Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
+        FTrapesium.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        FSegitiga.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        FLingkaran.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
+        FJajaranGenjang.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
+        FLayang.Show()
+        Me.Hide()
+    End Sub
 End Class
