@@ -1,0 +1,13 @@
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\bin\Debug\Smart Apps.exe.config
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\bin\Debug\Smart Apps.exe
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\bin\Debug\Smart Apps.pdb
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\bin\Debug\Smart Apps.xml
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.Form1.resources
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.Resources.resources
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart Apps.vbproj.GenerateResource.Cache
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart Apps.exe
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart Apps.xml
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart Apps.pdb
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.AboutBox1.resources
+c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.FPersegi.resources
+C:\Users\Hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.FPersegiPanjang.resources
