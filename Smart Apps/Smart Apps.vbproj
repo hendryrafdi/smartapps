@@ -76,24 +76,6 @@
     <Compile Include="AboutBox1.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FJajaranGenjang.Designer.vb">
-      <DependentUpon>FJajaranGenjang.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FJajaranGenjang.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FLayang.Designer.vb">
-      <DependentUpon>FLayang.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FLayang.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FLingkaran.Designer.vb">
-      <DependentUpon>FLingkaran.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FLingkaran.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -111,18 +93,6 @@
       <DependentUpon>FPersegiPanjang.vb</DependentUpon>
     </Compile>
     <Compile Include="FPersegiPanjang.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FSegitiga.Designer.vb">
-      <DependentUpon>FSegitiga.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FSegitiga.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FTrapesium.Designer.vb">
-      <DependentUpon>FTrapesium.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FTrapesium.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -145,15 +115,6 @@
     <EmbeddedResource Include="AboutBox1.resx">
       <DependentUpon>AboutBox1.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FJajaranGenjang.resx">
-      <DependentUpon>FJajaranGenjang.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FLayang.resx">
-      <DependentUpon>FLayang.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FLingkaran.resx">
-      <DependentUpon>FLingkaran.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
@@ -162,12 +123,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FPersegiPanjang.resx">
       <DependentUpon>FPersegiPanjang.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FSegitiga.resx">
-      <DependentUpon>FSegitiga.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FTrapesium.resx">
-      <DependentUpon>FTrapesium.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
