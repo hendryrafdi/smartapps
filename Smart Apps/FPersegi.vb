@@ -1,5 +1,5 @@
 ﻿Public Class FPersegi
-    Dim s, h As Integer
+    Dim s, h As Single
     Public Function dec()
         s = TextBox1.Text
     End Function

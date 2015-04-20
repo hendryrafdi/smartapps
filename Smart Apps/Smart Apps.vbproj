@@ -70,10 +70,28 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AboutBox1.Designer.vb">
-      <DependentUpon>AboutBox1.vb</DependentUpon>
+    <Compile Include="FAbout.Designer.vb">
+      <DependentUpon>FAbout.vb</DependentUpon>
     </Compile>
-    <Compile Include="AboutBox1.vb">
+    <Compile Include="FAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FJajaranGenjang.Designer.vb">
+      <DependentUpon>FJajaranGenjang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FJajaranGenjang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLayang.Designer.vb">
+      <DependentUpon>FLayang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FLayang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLingkaran.Designer.vb">
+      <DependentUpon>FLingkaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FLingkaran.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.vb">
@@ -95,6 +113,18 @@
     <Compile Include="FPersegiPanjang.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FSegitiga.Designer.vb">
+      <DependentUpon>FSegitiga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FSegitiga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FTrapesium.Designer.vb">
+      <DependentUpon>FTrapesium.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FTrapesium.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -112,8 +142,17 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="AboutBox1.resx">
-      <DependentUpon>AboutBox1.vb</DependentUpon>
+    <EmbeddedResource Include="FAbout.resx">
+      <DependentUpon>FAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FJajaranGenjang.resx">
+      <DependentUpon>FJajaranGenjang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLayang.resx">
+      <DependentUpon>FLayang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLingkaran.resx">
+      <DependentUpon>FLingkaran.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
@@ -123,6 +162,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FPersegiPanjang.resx">
       <DependentUpon>FPersegiPanjang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FSegitiga.resx">
+      <DependentUpon>FSegitiga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FTrapesium.resx">
+      <DependentUpon>FTrapesium.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -142,6 +187,9 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

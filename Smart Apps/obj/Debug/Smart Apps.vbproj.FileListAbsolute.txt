@@ -8,6 +8,12 @@ c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\
 c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart Apps.exe
 c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart Apps.xml
 c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart Apps.pdb
-c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.AboutBox1.resources
 c:\users\hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.FPersegi.resources
 C:\Users\Hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.FPersegiPanjang.resources
+C:\Users\Hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.FTrapesium.resources
+C:\Users\Hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.FSegitiga.resources
+C:\Users\Hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.FLingkaran.resources
+C:\Users\Hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.FJajaranGenjang.resources
+C:\Users\Hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.FLayang.resources
+C:\Users\Hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart Apps.vbprojResolveAssemblyReference.cache
+C:\Users\Hendry\documents\visual studio 2013\Projects\Smart Apps\Smart Apps\obj\Debug\Smart_Apps.FAbout.resources
